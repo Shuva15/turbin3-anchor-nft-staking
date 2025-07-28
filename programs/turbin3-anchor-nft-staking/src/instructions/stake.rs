@@ -6,7 +6,7 @@ use anchor_spl::{
             FreezeDelegatedAccountCpiAccounts
         }, 
         MasterEditionAccount, 
-        Metadata, 
+        Metadata,
         MetadataAccount
     }, 
     token::{
